@@ -1,1 +1,0 @@
-// Welcome to Astrix - AI Native Streaming Platform
